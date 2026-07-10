@@ -1,0 +1,9 @@
+{
+  "version": "0.1.0",
+  "notes": "abush v0.1.0",
+  "assets": {
+    "abush-linux-x86_64": "https://github.com/amosbird/abush-release/releases/download/v0.1.0/abush-linux-x86_64",
+    "abush-macos-universal": "https://github.com/amosbird/abush-release/releases/download/v0.1.0/abush-macos-universal",
+    "abush-win-x86_64.exe": "https://github.com/amosbird/abush-release/releases/download/v0.1.0/abush-win-x86_64.exe"
+  }
+}
